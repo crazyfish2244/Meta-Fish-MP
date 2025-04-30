@@ -9,7 +9,6 @@
 
 #ideas in the group can have effect = {} and removed_effect = {}
 
-#test change
 aristocracy_ideas = {
 	category = MIL
 
