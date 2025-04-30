@@ -1,4 +1,5 @@
 # Mod Changelog 
+Mod is still in development and modifiers are most likely not final.
 
 ## Ideas
 
