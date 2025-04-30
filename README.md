@@ -33,4 +33,4 @@ Mod is still in development and modifiers are most likely not final.
 	 - -33% land force limit 
 	 
 **Europe**
- - Added a strait connecting Calais and Canterbury 
+ - Added a strait connecting Calais and Kent
