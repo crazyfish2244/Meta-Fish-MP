@@ -1,15 +1,14 @@
 # Mod Changelog 
-Mod is still in development and modifiers are most likely not final.
-
+Mod is still in development and modifiers / numbers are subject to change.
 ## Ideas
 
 **Mercenary** (Nerf)
  - Replaced -10% technology cost with regain manpower on disband
  - Removed -25% military advisor cost
- - Changed Infantry combat ability 10% --> 5%
+ - Modified Infantry combat ability 10% --> 5%
 
 **Diplomatic** (Buff)
- - Added +1 Policies to Bonus
+ - Added +1 Policies to idea bonus 
  - Added +1 yearly Prestige
 
 **Administrative** (Buff)
@@ -25,6 +24,17 @@ Mod is still in development and modifiers are most likely not final.
 
 ## General
 
+**Edicts**
+ - Removed -10% Development edict
+ - Removed +25% manpower edict
+ - Added +0.10 local prosperity edict (gain an additional .10 prosperity for every province in state whenever prosperty increases)
+ - Added -0.15 local devastation edict
+ - Modified +33% local institution gain edict --> +50% local institution gain
+ - Modified -0.03 local autonomy edict --> -0.05 local autonomy
+ - Modified +33% local fort defensiveness edict --> +25% local fort defensiveness
+
+
+## Map
 **New World (North America & South America)**
  - Added "New World Province" modifier to every province giving:
 	 - -33% local manpower
@@ -34,3 +44,8 @@ Mod is still in development and modifiers are most likely not final.
 	 
 **Europe**
  - Added a strait connecting Calais and Kent
+ - Added a strait connecting Gotland and Stockholm
+ - Added a strait connecting Gotland to Livonia
+ - Added a strait connecting Tunis to Siciliy
+ - Added a strait connecting Malta to Sicily
+ - Added a strait connecting Rhodes to Anatolia
