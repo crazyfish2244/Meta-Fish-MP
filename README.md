@@ -5,11 +5,11 @@ Mod is still in development and modifiers / numbers are subject to change.
 **Mercenary** (Nerf)
  - Replaced -10% technology cost with regain manpower on disband
  - Removed -25% military advisor cost
- - Modified Infantry combat ability 10% --> 5%
+ - Modified infantry combat ability 10% --> 5%
 
 **Diplomatic** (Buff)
- - Added +1 Policies to idea bonus 
- - Added +1 yearly Prestige
+ - Added +1 policies to idea bonus 
+ - Added +1 yearly prestige
 
 **Administrative** (Buff)
  - Added 5% admin eff.
@@ -23,15 +23,16 @@ Mod is still in development and modifiers / numbers are subject to change.
  - Maritime
 
 ## General
+- Modified base development cost 50 --> 55
 
 **Edicts**
  - Removed -10% development edict
  - Removed +25% manpower edict
  - Added +0.10 local prosperity edict (gain an additional .10 prosperity for every province in state whenever prosperty increases)
  - Added -0.15 local devastation edict
- - Modified +33% local institution gain edict --> +50% local institution gain
- - Modified -0.03 local autonomy edict --> -0.05 local autonomy
- - Modified +33% local fort defensiveness edict --> +25% local fort defensiveness
+ - Modified local institution gain edict +33% --> +50%
+ - Modified local autonomy edict -0.03 --> -0.05
+ - Modified local fort defensiveness edict +33% --> +25%
 
 **Buildings**
  - Modified Barracks +50% --> +25% manpower
