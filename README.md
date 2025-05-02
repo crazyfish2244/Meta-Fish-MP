@@ -25,7 +25,7 @@ Mod is still in development and modifiers / numbers are subject to change.
 ## General
 
 **Edicts**
- - Removed -10% Development edict
+ - Removed -10% development edict
  - Removed +25% manpower edict
  - Added +0.10 local prosperity edict (gain an additional .10 prosperity for every province in state whenever prosperty increases)
  - Added -0.15 local devastation edict
@@ -33,19 +33,40 @@ Mod is still in development and modifiers / numbers are subject to change.
  - Modified -0.03 local autonomy edict --> -0.05 local autonomy
  - Modified +33% local fort defensiveness edict --> +25% local fort defensiveness
 
+**Buildings**
+ - Modified Barracks +50% --> +25% manpower
+ - Modified Training Fields +100% --> +50% manpower
+ - Modified Dock +50% --> 35% manpower
+ - Modified DryDock +100% --> +70% manpower
+ - Modified Regimental Camp +1 --> +0.75 land force limit
+ - Modified Training Fields +2 --> +1.5 land force limit
+ - Modified Shipyard +2 --> +1 naval force limit
+ - Modified Grand Shipyard +4 --> +2 naval force limit
+ - Modified Workshop +50% --> +40% production efficiecny
+ - Modified Counting House +100% --> +80% production efficiency
+ - Modified Manufacturies +1 --> +0.5 goods produced
+ - Modified Soldier Households +750 --> +500 local manpower
+ - Modified Universities -20% --> -10% development cost
+ - Added to Temples +1.5% missionary strength 
+
 
 ## Map
-**New World (North America & South America)**
+**New World (North America & South America & Australia)**
  - Added "New World Province" modifier to every province giving:
 	 - -33% local manpower
 	 - -33% goods produced
  - Added "New World Capital" modifier to every county who's capital is in the New World giving:
-	 - -33% land force limit 
+	 - -33% land force limit
+
+ **Middle East**
+ - Added "Mamluk Autonomy" triggered modifier to all starting Mamluk provinces (+25 minimum autonomy if taken by Ottomans)
 	 
 **Europe**
- - Added a strait connecting Calais and Kent
- - Added a strait connecting Gotland and Stockholm
- - Added a strait connecting Gotland to Livonia
- - Added a strait connecting Tunis to Siciliy
- - Added a strait connecting Malta to Sicily
- - Added a strait connecting Rhodes to Anatolia
+ - Added strait connecting Calais to Kent
+ - Added strait connecting Gotland to Stockholm
+ - Added strait connecting Gotland to Livonia
+ - Removed strait connecting Aland to Abo
+ - Added strait connecting Tunis to Siciliy
+ - Added strait connecting Malta to Sicily
+ - Added strait connecting Rhodes to Anatolia
+ - Added strait connecting Cyprus to Anatolia
