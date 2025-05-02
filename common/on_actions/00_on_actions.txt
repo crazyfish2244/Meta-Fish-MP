@@ -40,6 +40,8 @@ on_startup = {
 			OR = {
 				continent = north_america
 				continent = south_america
+				colonial_region = colonial_australia
+				
 			}
 		}
 		add_province_modifier = {
