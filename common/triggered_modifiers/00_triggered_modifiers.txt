@@ -12,6 +12,7 @@ new_world_capital = {
 			OR = {
 				continent = north_america
 				continent = south_america
+				colonial_region = colonial_australia
 			}
 		}
 	}
