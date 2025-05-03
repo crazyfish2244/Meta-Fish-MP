@@ -56,6 +56,7 @@ Mod is still in development and modifiers / numbers are subject to change.
 **Estates**
  - Removed +1 monarch point privileges from all estates
  - Set starting crownland of all player nations to 5 (Not fully implemented correctly, need to go through some nations (usually asian) that arent set to exactly 5)
+ - Cooldowns of all estate interaction buttons have been increased from 5 --> 7 years
  - Modified crownland and now at 100% crownland you recieve (all modifiers scaled every 10-15 crownland starting at 40) :
 	 - -5% development cost (added)
 	 - +25% manpower (added)
