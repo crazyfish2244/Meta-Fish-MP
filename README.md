@@ -67,10 +67,5 @@ Mod is still in development and modifiers / numbers are subject to change.
 	 
 **Europe**
  - Added strait connecting Calais to Kent
- - Added strait connecting Gotland to Stockholm
- - Added strait connecting Gotland to Livonia
- - Removed strait connecting Aland to Abo
- - Added strait connecting Tunis to Siciliy
- - Added strait connecting Malta to Sicily
- - Added strait connecting Rhodes to Anatolia
- - Added strait connecting Cyprus to Anatolia
+ - Added / removed QoL straits in Baltic Sea
+ - Added QoL straits in Mediterranean stea
