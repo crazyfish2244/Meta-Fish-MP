@@ -64,6 +64,7 @@ Mod is still in development and modifiers / numbers are subject to change.
   	 - +25% tax modifier (added)
 	 - +25 maximum absolutism (buffed)
  	 - +5 year absolutism (buffed)
+   	 - -0.10 monthly autonomy (buffed)
    	 - +60% reform progress (reduced)
 
 ## Map
