@@ -115,4 +115,7 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;Comment
 126;2982;sea;1305;-1;-1;-1;-1;Malta-Sicily
 319;320;sea;1319;-1;-1;-1;-1;Rhodes-Ottomans
 2302;321;sea;1317;-1;-1;-1;-1;Cyprus-Icel
+1750;4560;sea;1295;-1;-1;-1;-1;Alcant-Eivissa
+145;163;sea;1319;-1;-1;-1;-1;Crete-Greece
+115;1247;sea;1298;-1;-1;-1;-1;Pisa-Corsica
 -1;-1;;-1;-1;-1;-1;-1;-1;
