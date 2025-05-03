@@ -1141,7 +1141,7 @@ maritime_ideas = {
 	
 	trigger = {
 		primitives = no
-		tag = "HAW"
+		always = no
 
 	}
 
@@ -1690,7 +1690,7 @@ naval_ideas = {
 
 	trigger = {
 		primitives = no
-		tag = "HAW"
+		always = no
 	}
 
 	bonus = {

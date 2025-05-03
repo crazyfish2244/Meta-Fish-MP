@@ -50,6 +50,10 @@ on_startup = {
 		}
 	
 	}
+	change_estate_land_share = {
+		estate = all
+		share = 25
+	}
 }
 
 # country
