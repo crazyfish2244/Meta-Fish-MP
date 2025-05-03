@@ -51,7 +51,7 @@ Mod is still in development and modifiers / numbers are subject to change.
  - Modified Cathedral +60% --> +80% tax modifier
  - Added to Temples +1.5% missionary strength
  - Added to Temples -10% culture conversion cost
- - Added to Cathedral -20% culture conversion cost
+ - Added to Cathedrals -20% culture conversion cost
 
 
 ## Map
