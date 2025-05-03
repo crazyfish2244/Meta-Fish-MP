@@ -22,6 +22,7 @@ new_world_capital = {
 	}
 
 	land_forcelimit_modifier = -0.33
+	naval_forcelimit_modifier = -0.33
 }
 
 ###########################################
