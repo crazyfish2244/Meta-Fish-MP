@@ -58,9 +58,11 @@ Mod is still in development and modifiers / numbers are subject to change.
 **New World (North America & South America & Australia)**
  - Added "New World Province" modifier to every province giving:
 	 - -33% local manpower
+	 - -33% local sailors
 	 - -33% goods produced
  - Added "New World Capital" modifier to every county who's capital is in the New World giving:
 	 - -33% land force limit
+ 	 - -33% naval force limit
 
  **Middle East**
  - Added "Mamluk Autonomy" triggered modifier to all starting Mamluk provinces (+25 minimum autonomy if taken by Ottomans)
