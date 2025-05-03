@@ -53,6 +53,17 @@ Mod is still in development and modifiers / numbers are subject to change.
  - Added to Temples -10% culture conversion cost
  - Added to Cathedrals -20% culture conversion cost
 
+**Estates**
+ - Removed +1 monarch point privileges from all estates
+ - Set starting crownland of all player nations to 5 (Not fully implemented correctly, need to go through some nations (usually asian) that arent set to exactly 5)
+ - Modified crownland and now at 100% crownland you also recieve (all modifiers scaled every 10-15 crownland starting at 40) :
+	 - -5% development cost (added)
+	 - +25% manpower (added)
+ 	 - +10% goods produced (added)
+  	 - +25% tax modifier (added)
+	 - +25 maximum absolutism (buffed)
+ 	 - +5 year absolutism (buffed)
+   	 - +60% reform progress (reduced from 100%)
 
 ## Map
 **New World (North America & South America & Australia)**
