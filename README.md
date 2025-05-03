@@ -30,25 +30,28 @@ Mod is still in development and modifiers / numbers are subject to change.
  - Removed +25% manpower edict
  - Added +0.10 local prosperity edict (gain an additional .10 prosperity for every province in state whenever prosperty increases)
  - Added -0.15 local devastation edict
- - Modified local institution gain edict +33% --> +50%
- - Modified local autonomy edict -0.03 --> -0.05
- - Modified local fort defensiveness edict +33% --> +25%
+ - Modified local institution gain edict +33% --> +0.5 instution gain
+ - Modified local autonomy edict -0.03 --> -0.10
+ - Modified local fort defensiveness edict +33% --> +20%
 
 **Buildings**
- - Modified Barracks +50% --> +25% manpower
- - Modified Training Fields +100% --> +50% manpower
- - Modified Dock +50% --> 35% manpower
- - Modified DryDock +100% --> +70% manpower
+ - Modified Barracks +50% --> +35% manpower
+ - Modified Training Fields +100% --> +70% manpower
+ - Modified Dock +50% --> 35% sailors
+ - Modified DryDock +100% --> +70% sailors
  - Modified Regimental Camp +1 --> +0.75 land force limit
  - Modified Training Fields +2 --> +1.5 land force limit
  - Modified Shipyard +2 --> +1 naval force limit
  - Modified Grand Shipyard +4 --> +2 naval force limit
  - Modified Workshop +50% --> +40% production efficiecny
  - Modified Counting House +100% --> +80% production efficiency
- - Modified Manufacturies +1 --> +0.5 goods produced
+ - Modified Manufacturies +1 --> +0.75 goods produced
  - Modified Soldier Households +750 --> +500 local manpower
  - Modified Universities -20% --> -10% development cost
- - Added to Temples +1.5% missionary strength 
+ - Modified Cathedral +60% --> +80% tax modifier
+ - Added to Temples +1.5% missionary strength
+ - Added to Temples -10% culture conversion cost
+ - Added to Cathedral -20% culture conversion cost
 
 
 ## Map
