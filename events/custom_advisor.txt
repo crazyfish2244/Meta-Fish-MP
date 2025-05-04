@@ -1,0 +1,336 @@
+namespace = custom_advisor
+
+# Select advisor group
+country_event = {
+	id = custom_advisor.1
+	title = custom_advisor.1.t
+	desc = custom_advisor.1.desc
+	picture = ANGRY_MOB_eventPicture
+
+	is_triggered_only = yes
+
+	trigger = {
+		always = yes
+	}	
+
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		name = custom_advisor.1.a
+		country_event = {
+			id = custom_advisor.2
+		}
+	}
+	option = {
+		name = custom_advisor.1.b
+		country_event = {
+			id = custom_advisor.3
+		}
+	}
+	option = {
+		name = custom_advisor.1.c
+		country_event = {
+			id = custom_advisor.4
+		}
+	}
+	option = {
+		name = custom_advisor.1.d
+	}
+	
+}
+
+# Select admin advisor
+country_event = {
+	id = custom_advisor.2
+	title = custom_advisor.2.t
+	desc = custom_advisor.2.desc
+	picture = ANGRY_MOB_eventPicture
+	
+	is_triggered_only = yes
+
+	trigger = {
+		always = yes
+	}
+	
+	option = {
+		name = custom_advisor.2.a
+		hire_advisor = {
+			type = artist
+			skill = 1
+			age = 30
+			culture = ROOT
+			religion = ROOT
+		}
+		add_adm_power = -50
+	}
+	option = {
+		name = custom_advisor.2.b
+		hire_advisor = {
+			type = inquisitor
+			skill = 1
+			age = 30
+			culture = ROOT
+			religion = ROOT
+		}
+		add_adm_power = -50		
+	}
+	option = {
+		name = custom_advisor.2.c
+		hire_advisor = {
+			type = master_of_mint
+			skill = 1
+			age = 30
+			culture = ROOT
+			religion = ROOT
+		}
+		add_adm_power = -50
+	}
+	option = {
+		name = custom_advisor.2.d
+		hire_advisor = {
+			type = natural_scientist
+			skill = 1
+			age = 30
+			culture = ROOT
+			religion = ROOT
+		}
+		add_adm_power = -50
+	}
+	option = {
+		name = custom_advisor.2.e
+		hire_advisor = {
+			type = philosopher
+			skill = 1
+			age = 30
+			culture = ROOT
+			religion = ROOT
+		}
+		add_adm_power = -50
+	}
+	option = {
+		name = custom_advisor.2.f
+		hire_advisor = {
+			type = theologian
+			skill = 1
+			age = 30
+			culture = ROOT
+			religion = ROOT
+		}
+		add_adm_power = -50
+	}
+	option = {
+		name = custom_advisor.2.g
+		hire_advisor = {
+			type = treasurer
+			skill = 1
+			age = 30
+			culture = ROOT
+			religion = ROOT
+		}
+		add_adm_power = -50
+	}
+	option = {
+		name = custom_advisor.2.h
+		country_event = {
+			id = custom_advisor.1
+		}
+	}
+}
+
+#Select diplo advisor
+country_event = {
+	id = custom_advisor.3
+	title = custom_advisor.3.t
+	desc = custom_advisor.3.desc
+	picture = ANGRY_MOB_eventPicture
+	
+	is_triggered_only = yes
+
+	trigger = {
+		always = yes
+	}
+	
+	option = {
+		name = custom_advisor.3.a
+		hire_advisor = {
+			type = colonial_governor
+			skill = 1
+			age = 30
+			culture = ROOT
+			religion = ROOT
+		}
+		add_dip_power = -50
+	}
+	option = {
+		name = custom_advisor.3.b
+		hire_advisor = {
+			type = diplomat
+			skill = 1
+			age = 30
+			culture = ROOT
+			religion = ROOT
+		}
+		add_dip_power = -50
+	}
+	option = {
+		name = custom_advisor.3.c
+		hire_advisor = {
+			type = naval_reformer
+			skill = 1
+			age = 30
+			culture = ROOT
+			religion = ROOT
+		}
+		add_dip_power = -50
+	}
+	option = {
+		name = custom_advisor.3.d
+		hire_advisor = {
+			type = navigator
+			skill = 1
+			age = 30
+			culture = ROOT
+			religion = ROOT
+		}
+		add_dip_power = -50
+	}
+	option = {
+		name = custom_advisor.3.e
+		hire_advisor = {
+			type = spymaster
+			skill = 1
+			age = 30
+			culture = ROOT
+			religion = ROOT
+		}
+		add_dip_power = -50
+	}
+	option = {
+		name = custom_advisor.3.f
+		hire_advisor = {
+			type = statesman
+			skill = 1
+			age = 30
+			culture = ROOT
+			religion = ROOT
+		}
+		add_dip_power = -50
+	}
+	option = {
+		name = custom_advisor.3.g
+		hire_advisor = {
+			type = trader
+			skill = 1
+			age = 30
+			culture = ROOT
+			religion = ROOT
+		}
+		add_dip_power = -50
+	}
+	option = {
+		name = custom_advisor.3.h
+		country_event = {
+			id = custom_advisor.1
+		}
+	}
+}
+
+#Select military advisor
+country_event = {
+	id = custom_advisor.4
+	title = custom_advisor.4.t
+	desc = custom_advisor.4.desc
+	picture = ANGRY_MOB_eventPicture
+	
+	is_triggered_only = yes
+
+	trigger = {
+		always = yes
+	}
+	
+	option = {
+		name = custom_advisor.4.a
+		hire_advisor = {
+			type = army_organiser
+			skill = 1
+			age = 30
+			culture = ROOT
+			religion = ROOT
+		}
+		add_mil_power = -50
+	}
+	option = {
+		name = custom_advisor.4.b
+		hire_advisor = {
+			type = army_reformer
+			skill = 1
+			age = 30
+			culture = ROOT
+			religion = ROOT
+		}
+		add_mil_power = -50
+	}
+	option = {
+		name = custom_advisor.4.c
+		hire_advisor = {
+			type = commandant
+			skill = 1
+			age = 30
+			culture = ROOT
+			religion = ROOT
+		}
+		add_mil_power = -50
+	}
+	option = {
+		name = custom_advisor.4.d
+		hire_advisor = {
+			type = grand_captain
+			skill = 1
+			age = 30
+			culture = ROOT
+			religion = ROOT
+		}
+		add_mil_power = -50
+	}
+	option = {
+		name = custom_advisor.4.e
+		hire_advisor = {
+			type = recruitmaster
+			skill = 1
+			age = 30
+			culture = ROOT
+			religion = ROOT
+		}
+		add_mil_power = -50
+	}
+	option = {
+		name = custom_advisor.4.f
+		hire_advisor = {
+			type = fortification_expert
+			skill = 1
+			age = 30
+			culture = ROOT
+			religion = ROOT
+		}
+		add_mil_power = -50
+	}
+	option = {
+		name = custom_advisor.4.g
+		hire_advisor = {
+			type = quartermaster
+			skill = 1
+			age = 30
+			culture = ROOT
+			religion = ROOT
+		}
+		add_mil_power = -50
+	}
+	option = {
+		name = custom_advisor.4.h
+		country_event = {
+			id = custom_advisor.1
+		}
+	}
+}

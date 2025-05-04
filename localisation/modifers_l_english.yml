@@ -2375,3 +2375,4 @@
  desc_new_province_debuff:0 ""
  new_world_capital:0 "New World Capital"
  desc_new_world_capital:0 ""
+ select_advisor_title:0 "Hire Specific Advisor"

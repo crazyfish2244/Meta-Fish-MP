@@ -1,0 +1,17 @@
+country_decisions = {
+
+		select_advisor = {
+			color = { 165 36 36 }
+			
+			potential = {
+				ai = no
+			}
+			allow = {
+			}
+			effect {
+				country_event = {
+					id = custom_advisor.1
+				}
+			}
+		}
+}
