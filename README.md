@@ -24,6 +24,7 @@ Mod is still in development and modifiers / numbers are subject to change.
 
 ## General
 - Modified base development cost 50 --> 55
+- New "Select Specific Advisor" decision for all countries, in exchange for 50 monarch points you can hire any advisor
 
 **Edicts**
  - Removed -10% development edict
@@ -76,11 +77,15 @@ Mod is still in development and modifiers / numbers are subject to change.
  - Added "New World Capital" modifier to every county who's capital is in the New World giving:
 	 - -33% land force limit
  	 - -33% naval force limit
-
- **Middle East**
- - Added "Mamluk Autonomy" triggered modifier to all starting Mamluk provinces (+25 minimum autonomy if taken by Ottomans)
 	 
 **Europe**
  - Added strait connecting Calais to Kent
  - Added / removed QoL straits in Baltic Sea
  - Added QoL straits in Mediterranean stea
+ - Brandenburg now starts with entire neumark state
+ 
+ **Middle East**
+ - Added "Mamluk Autonomy" triggered modifier to all starting Mamluk provinces (+25 minimum autonomy if taken by Ottomans)
+
+ **Africa**
+ - Morocco now starts with portugese north africa province
