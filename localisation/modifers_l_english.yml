@@ -2376,3 +2376,5 @@
  new_world_capital:0 "New World Capital"
  desc_new_world_capital:0 ""
  select_advisor_title:0 "Hire Specific Advisor"
+ caravan_nerf:0 "ASSvan Power"
+ caravan_nerf_desc:0 "Stupid fucking modifier"

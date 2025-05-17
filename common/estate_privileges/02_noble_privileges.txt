@@ -390,7 +390,7 @@ estate_nobles_levies = {
 	} 
 	modifier_by_land_ownership = {
 		global_tax_modifier = -0.10
-		global_manpower_modifier = 0.5
+		global_manpower_modifier = 0.25
 	}
 	influence_scaled_conditional_modifier = {
 		trigger = {
@@ -405,7 +405,7 @@ estate_nobles_levies = {
 			has_country_flag = azt_noble_levies_loyalty_buff_flag
 		}
 		modifier = {
-			global_manpower_modifier = 0.15
+			global_manpower_modifier = 0.075
 		}
 	}
 	penalties = {

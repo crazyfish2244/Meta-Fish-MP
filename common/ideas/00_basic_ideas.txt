@@ -96,10 +96,6 @@ plutocracy_ideas = {
 		vaisyas_loyalty_modifier = 0.1
 	}
 
-	trigger = {
-		has_government_attribute = enables_plutocratic_idea_group
-	}
-
 	tradition_of_payment = {
 		mercenary_cost = -0.2
 		global_regiment_cost = -0.05
@@ -205,9 +201,6 @@ theocracy_gov_ideas = {
 		brahmins_muslim_loyalty_modifier = 0.1
 	}
 	
-	trigger = {
-		has_government_attribute = enables_divine_idea_group
-	}
 	servants_of_god = {
 		devotion = 1
 		legitimacy = 0.5
@@ -531,6 +524,7 @@ diplomatic_ideas = {
 	
 	grand_banquets = {
 		diplomats = 1
+		ae_impact = -0.05
 	}
 	foreign_embassies = {
 		dip_advisor_cost = -0.25
@@ -584,7 +578,9 @@ offensive_ideas = {
 		leader_land_shock = 1
 	}
 	national_conscripts = {
-		global_regiment_recruit_speed = -0.1
+		artillery_barrage_cost = -0.25
+		assault_fort_cost_modifier = -1
+		assault_fort_ability = 0.25
 	}
 	superior_firepower = {
 		leader_land_fire = 1
@@ -1633,7 +1629,12 @@ humanist_ideas = {
 
 influence_ideas = {
 	category = DIP
+	
+	trigger = {
+		always = no
 
+	}
+	
 	bonus = {
 		unjustified_demands = -0.5
 	}
@@ -1763,6 +1764,7 @@ court_ideas = {
 		imperial_mandate = 0.1
 		imperial_authority = 0.05
 		monthly_cultural_unity = 0.5
+		monarch_military_power = 1
 	}
 	
 	long_echo = {
@@ -1774,11 +1776,12 @@ court_ideas = {
 		loyalty_change_on_revoked = 0.05
 	}
 	welcoming_ceremonies = {
-		prestige = 1 
+		prestige = 1
+		monarch_admin_power = 1		
 		monthly_persian_influence = 0.1
 	}
 	tranquil_coordination = {
-		reform_progress_growth = 0.2
+		reform_progress_growth = 0.35
 	}
 	respected_authority = {
 		all_estate_possible_privileges = 1

@@ -33,7 +33,8 @@ plutocratic_ethos_act = {
 		full_idea_group = plutocracy_ideas 
 	}
 	
-	reform_progress_growth = 0.25
+	reform_progress_growth = 0.35
+	idea_cost = -0.1
 	
 	effect = {}
 	removed_effect = {}
@@ -674,10 +675,8 @@ mandatory_service = {
 		full_idea_group = plutocracy_ideas
 	}
 	
-	reelection_cost = -0.10
-	global_manpower_modifier = 0.1
-	may_recruit_female_generals = yes
-	female_advisor_chance = 0.25
+	province_warscore_cost = -0.10
+	land_maintenance_modifier = -0.10
 
 	effect = {}
 	removed_effect = {}
@@ -688,7 +687,7 @@ mandatory_service = {
 
 
 professional_diplomatic_corps = {
-	monarch_power = DIP
+	monarch_power = MIL
 	potential = {
 		has_idea_group = diplomatic_ideas
 		has_idea_group = quality_ideas
@@ -699,8 +698,8 @@ professional_diplomatic_corps = {
 		full_idea_group = quality_ideas
 	}
 	
-	diplomatic_reputation = 1
-	war_exhaustion = -0.05
+	drill_decay_modifier = -0.33
+	yearly_army_professionalism = 0.0025	
 
 	effect = {}
 	removed_effect = {}
@@ -807,7 +806,7 @@ multilingual_diplomats = {
 	}	
 	
 	num_accepted_cultures = 1
-	improve_relation_modifier = 0.2
+	manpower_in_accepted_culture_provinces = 0.10
 	
 	effect = {}
 	removed_effect = {}
@@ -1072,8 +1071,8 @@ record_keeping_act = {
 		full_idea_group = diplomatic_ideas
 	}
 
-	diplomats = 1
-	global_autonomy = -0.05
+	province_warscore_cost = -0.15
+	global_autonomy = -0.15
 
 	effect = {}
 	removed_effect = {}
@@ -1154,8 +1153,8 @@ the_foreign_support_act = {
 		full_idea_group = economic_ideas
 	}
 
-	rebel_support_efficiency = 0.50
-	diplomats = 1
+	advisor_cost = -0.15
+	global_tax_modifier = 0.20	
 	
 	effect = {}
 	removed_effect = {}
@@ -1207,7 +1206,7 @@ the_stamp_act = {
 }
 
 black_chamber_act = {
-	monarch_power = DIP
+	monarch_power = MIL
 	
 	potential = {
 		has_idea_group = spy_ideas
@@ -1219,8 +1218,7 @@ black_chamber_act = {
 		full_idea_group = offensive_ideas
 	}
 	
-	spy_offence = 0.25
-	diplomats = 1
+	shock_damage = 0.075
 
 	effect = {}
 	removed_effect = {}
@@ -1241,8 +1239,8 @@ diplomatic_defence_act = {
 		full_idea_group = defensive_ideas
 	}
 
-	diplomats = 1
-	improve_relation_modifier = 0.2
+	land_morale = 0.05
+	global_spy_defence = 0.5
 	
 	effect = {}
 	removed_effect = {}
@@ -1703,7 +1701,7 @@ the_spy_network_act = {
 		full_idea_group = spy_ideas
 	}
 	
-	envoy_travel_time = -0.25
+	global_trade_goods_size_modifier = 0.10
 	spy_offence = 0.5
 
 	effect = {}
@@ -1726,8 +1724,7 @@ the_smooth_integration_act = {
 		full_idea_group = diplomatic_ideas 
 	}
 	
-	diplomatic_reputation = 1 
-	years_to_integrate_personal_union = -10
+	production_efficiency = 0.15	
 
 	effect = {}
 	removed_effect = {}
@@ -1843,8 +1840,8 @@ centralization_power_act = {
 		full_idea_group = court_ideas 
 	}
 	
-	max_absolutism = 10 
-	yearly_corruption = -0.1
+	max_absolutism = 25 
+	yearly_corruption = -0.33
 
 	effect = {}
 	removed_effect = {}
