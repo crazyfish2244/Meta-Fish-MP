@@ -1,15 +1,26 @@
 # Mod Changelog 
 Mod is still in development and modifiers / numbers are subject to change.
 ## Ideas
+ - Modified many policies across all idea groups
+ 	- Changes can be viewed in the "policies.jpg" file 
+ - Plutocratic now avaliable for everyone
+ - Divine now avaliable for everyone 
 
 **Mercenary** (Nerf)
  - Replaced -10% technology cost with regain manpower on disband
  - Removed -25% military advisor cost
  - Modified infantry combat ability 10% --> 5%
 
+**Offensive** (Buff)
+ - Added -25% barrage cost
+ - Added -100% assault garrison cost
+ - Aded +25% damage vs garrisons
+ - Removed -10% recruit time
+
 **Diplomatic** (Buff)
  - Added +1 policies to idea bonus 
  - Added +1 yearly prestige
+ - Added -5% aggressive expansion
 
 **Administrative** (Buff)
  - Added 5% admin eff.
@@ -18,13 +29,20 @@ Mod is still in development and modifiers / numbers are subject to change.
 **Humanist** (Buff)
  - Added a manpower event that fires as soon as the idea set is fully completed. This event will give 20% local manpower to all non-primary religious group provinces permanently unless requirements become unfulfilled (country religion change, province religion change, province ownership change, deletion of idea set, etc.)
 
+**Court** (Buff)
+ - Added +1 monarch military skill
+ - Added +1 monarch admin skill
+ - Modified government reform progress +20% --> +35%
+
 **Removed Idea Sets**
  - Naval
  - Maritime
+ - Influence
 
 ## General
 - Modified base development cost 50 --> 55
 - New "Select Specific Advisor" decision for all countries, in exchange for 50 monarch points you can hire any advisor
+- Removed caravan power
 
 **Edicts**
  - Removed -10% development edict
@@ -58,6 +76,7 @@ Mod is still in development and modifiers / numbers are subject to change.
  - Removed +1 monarch point privileges from all estates
  - Set starting crownland of all player nations to 5 (not fully implemented correctly yet)
  - Cooldowns of all estate interaction buttons have been increased from 5 --> 7 years
+ - Modified nobility manpower privliege +50% --> +25%
  - Modified crownland and now at 100% crownland you recieve (all modifiers scaled every 10-15 crownland starting at 40) :
 	 - -5% development cost (added)
 	 - +25% manpower (added)
@@ -68,6 +87,26 @@ Mod is still in development and modifiers / numbers are subject to change.
    	 - -0.10 monthly autonomy (buffed)
    	 - +60% reform progress (reduced)
 
+**Trade Nodes**
+ - Main changes include:
+ 	- Wien
+	 	- Absorbed pest
+  		- Gained Bohemia
+	  	- Lost southern germany
+   		- Now also flows to Krakow
+	- Saxnoy & Rheinland
+ 		- Saxony controls northern germany while Rheinland controls the south
+   		- Rheinland now flows to Saxnoy
+   	- Venice & Genoa
+   		- Venice controls northern italy while Genoa controls the south
+   		- Genoa is no longer an end node and now flows to Venice
+   	- Alexandria & Tunis & Safi
+   		- Alexandria now flows to Tunis and Ragusa
+   	 	- Alexandria no longer flows to Venice or Genoa
+   	  	- Tunis now flows to Safi
+   	  	- Tunis no longer flows to Valencia or Sevilla
+   	- White Sea
+   		- Now flows to Novogorod
 ## Map
 **New World (North America & South America & Australia)**
  - Added "New World Province" modifier to every province giving:
@@ -82,10 +121,27 @@ Mod is still in development and modifiers / numbers are subject to change.
  - Added strait connecting Calais to Kent
  - Added / removed QoL straits in Baltic Sea
  - Added QoL straits in Mediterranean stea
- - Brandenburg now starts with entire neumark state
- 
- **Middle East**
- - Added "Mamluk Autonomy" triggered modifier to all starting Mamluk provinces (+25 minimum autonomy if taken by Ottomans)
+ - Gibraltar is now a highlands province (originally mountains)
+   
+**Asia**
+ - Removed China region
+ - Removed Manchuria region
+ - Removed Japan region
 
- **Africa**
- - Morocco now starts with portugese north africa province
+## Country Specific
+ - Morroco
+ 	- Now starts with portugese north african province
+ - Mamluks
+ 	- Added "Mamluk Autonomy" triggered modifier to all starting provinces (+25 minimum autonomy if taken by Ottomans)
+ - Brandenburg
+ 	- Now starts with Neumark state  
+ - Hesse
+ 	- Now starts with full hesse state
+  	- Now starts with 3,3,5 ruler
+   	- Removed starting heir
+   	- Moved 5% disclipline national idea 2 spots closer to the front of the set
+ - Westphalia (formable)
+ 	- Added -10% fire recieved to national ideas
+ - Italy (formable)
+ 	- Added +10% morale to national ideas
+  	- Removed -10% stab cost national idea
