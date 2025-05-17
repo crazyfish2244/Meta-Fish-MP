@@ -3091,7 +3091,6 @@ ITA_ideas = {
 	start = {
 		global_trade_power = 0.20
 		improve_relation_modifier = 0.50
-		land_morale = 0.10
 	}
 	
 	bonus = {
@@ -3104,7 +3103,7 @@ ITA_ideas = {
 	free = yes
 	
 	no_a_geographical_construct = {
-		stability_cost_modifier = -0.10
+		land_morale = 0.10
 	}
 	tradition_of_the_legion = {
 		infantry_power = 0.15
@@ -16453,7 +16452,7 @@ WES_ideas = {
 		land_forcelimit_modifier = 0.2
 	}
 	bonus = {
-		discipline = 0.05
+		fire_damage_received = -0.10
 	}
 	trigger = {
 		tag = WES
@@ -16475,7 +16474,7 @@ WES_ideas = {
 		same_culture_advisor_cost = -0.25
 	}
 	wes_taxation = {
-		fire_damage_received = -0.10
+		discipline = 0.05
 	}
 	wes_enlightenment = {
 		tolerance_heretic = 1
