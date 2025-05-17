@@ -43,6 +43,7 @@ Mod is still in development and modifiers / numbers are subject to change.
 - Modified base development cost 50 --> 55
 - New "Select Specific Advisor" decision for all countries, in exchange for 50 monarch points you can hire any advisor
 - Removed caravan power
+- Reduced tech requirements for forming any nation to admin tech 10
 
 **Edicts**
  - Removed -10% development edict
