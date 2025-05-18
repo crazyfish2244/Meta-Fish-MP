@@ -78,15 +78,15 @@ Mod is still in development and modifiers / numbers are subject to change.
  - Reduced starting crownland by 20 for all nations
  - Cooldowns of all estate interaction buttons have been increased from 5 --> 7 years
  - Modified nobility manpower privliege +50% --> +25%
- - Modified crownland and now at 100% crownland you recieve (all modifiers scaled every 10-15 crownland starting at 40) :
+ - Modified crownland bonuses at 100% ownership:
 	 - -5% development cost (added)
 	 - +25% manpower (added)
  	 - +10% goods produced (added)
-  	 - +25% tax modifier (added)
+  	 - +30% tax modifier (added)
 	 - +25 maximum absolutism (buffed)
  	 - +5 year absolutism (buffed)
    	 - -0.10 monthly autonomy (buffed)
-   	 - +60% reform progress (reduced)
+   	 - +100% reform progress (reduced)
 
 **Government Types**
  - Steppe Nomad
