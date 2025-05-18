@@ -87,6 +87,7 @@ Mod is still in development and modifiers / numbers are subject to change.
  	 - +5 year absolutism (buffed)
    	 - -0.10 monthly autonomy (buffed)
    	 - +60% reform progress (reduced)
+
 **Government Types**
  - Steppe Nomad
  	- Modified shock bonus / penalty on flat terrain 25% --> 10%
