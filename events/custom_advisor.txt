@@ -63,7 +63,7 @@ country_event = {
 			culture = ROOT
 			religion = ROOT
 		}
-		add_adm_power = -50
+		add_adm_power = -25
 	}
 	option = {
 		name = custom_advisor.2.b
@@ -74,7 +74,7 @@ country_event = {
 			culture = ROOT
 			religion = ROOT
 		}
-		add_adm_power = -50		
+		add_adm_power = -25		
 	}
 	option = {
 		name = custom_advisor.2.c
@@ -85,7 +85,7 @@ country_event = {
 			culture = ROOT
 			religion = ROOT
 		}
-		add_adm_power = -50
+		add_adm_power = -25
 	}
 	option = {
 		name = custom_advisor.2.d
@@ -96,7 +96,7 @@ country_event = {
 			culture = ROOT
 			religion = ROOT
 		}
-		add_adm_power = -50
+		add_adm_power = -25
 	}
 	option = {
 		name = custom_advisor.2.e
@@ -107,7 +107,7 @@ country_event = {
 			culture = ROOT
 			religion = ROOT
 		}
-		add_adm_power = -50
+		add_adm_power = -25
 	}
 	option = {
 		name = custom_advisor.2.f
@@ -118,7 +118,7 @@ country_event = {
 			culture = ROOT
 			religion = ROOT
 		}
-		add_adm_power = -50
+		add_adm_power = -25
 	}
 	option = {
 		name = custom_advisor.2.g
@@ -129,7 +129,7 @@ country_event = {
 			culture = ROOT
 			religion = ROOT
 		}
-		add_adm_power = -50
+		add_adm_power = -25
 	}
 	option = {
 		name = custom_advisor.2.h
@@ -161,7 +161,7 @@ country_event = {
 			culture = ROOT
 			religion = ROOT
 		}
-		add_dip_power = -50
+		add_dip_power = -25
 	}
 	option = {
 		name = custom_advisor.3.b
@@ -172,7 +172,7 @@ country_event = {
 			culture = ROOT
 			religion = ROOT
 		}
-		add_dip_power = -50
+		add_dip_power = -25
 	}
 	option = {
 		name = custom_advisor.3.c
@@ -183,7 +183,7 @@ country_event = {
 			culture = ROOT
 			religion = ROOT
 		}
-		add_dip_power = -50
+		add_dip_power = -25
 	}
 	option = {
 		name = custom_advisor.3.d
@@ -194,7 +194,7 @@ country_event = {
 			culture = ROOT
 			religion = ROOT
 		}
-		add_dip_power = -50
+		add_dip_power = -25
 	}
 	option = {
 		name = custom_advisor.3.e
@@ -205,7 +205,7 @@ country_event = {
 			culture = ROOT
 			religion = ROOT
 		}
-		add_dip_power = -50
+		add_dip_power = -25
 	}
 	option = {
 		name = custom_advisor.3.f
@@ -216,7 +216,7 @@ country_event = {
 			culture = ROOT
 			religion = ROOT
 		}
-		add_dip_power = -50
+		add_dip_power = -25
 	}
 	option = {
 		name = custom_advisor.3.g
@@ -227,7 +227,7 @@ country_event = {
 			culture = ROOT
 			religion = ROOT
 		}
-		add_dip_power = -50
+		add_dip_power = -25
 	}
 	option = {
 		name = custom_advisor.3.h
@@ -259,7 +259,7 @@ country_event = {
 			culture = ROOT
 			religion = ROOT
 		}
-		add_mil_power = -50
+		add_mil_power = -25
 	}
 	option = {
 		name = custom_advisor.4.b
@@ -270,7 +270,7 @@ country_event = {
 			culture = ROOT
 			religion = ROOT
 		}
-		add_mil_power = -50
+		add_mil_power = -25
 	}
 	option = {
 		name = custom_advisor.4.c
@@ -281,7 +281,7 @@ country_event = {
 			culture = ROOT
 			religion = ROOT
 		}
-		add_mil_power = -50
+		add_mil_power = -25
 	}
 	option = {
 		name = custom_advisor.4.d
@@ -292,7 +292,7 @@ country_event = {
 			culture = ROOT
 			religion = ROOT
 		}
-		add_mil_power = -50
+		add_mil_power = -25
 	}
 	option = {
 		name = custom_advisor.4.e
@@ -303,7 +303,7 @@ country_event = {
 			culture = ROOT
 			religion = ROOT
 		}
-		add_mil_power = -50
+		add_mil_power = -25
 	}
 	option = {
 		name = custom_advisor.4.f
@@ -314,7 +314,7 @@ country_event = {
 			culture = ROOT
 			religion = ROOT
 		}
-		add_mil_power = -50
+		add_mil_power = -25
 	}
 	option = {
 		name = custom_advisor.4.g
@@ -325,7 +325,7 @@ country_event = {
 			culture = ROOT
 			religion = ROOT
 		}
-		add_mil_power = -50
+		add_mil_power = -25
 	}
 	option = {
 		name = custom_advisor.4.h
