@@ -41,7 +41,7 @@ Mod is still in development and modifiers / numbers are subject to change.
 
 ## General
 - Modified base development cost 50 --> 55
-- New "Select Specific Advisor" decision for all countries, in exchange for 50 monarch points you can hire any advisor
+- New "Select Specific Advisor" decision for all countries, in exchange for 25 monarch points you can hire any advisor
 - Removed caravan power
 - Reduced tech requirements for forming any nation to admin tech 10
 
@@ -75,7 +75,7 @@ Mod is still in development and modifiers / numbers are subject to change.
 
 **Estates**
  - Removed +1 monarch point privileges from all estates
- - Set starting crownland of all player nations to 5 (not fully implemented correctly yet)
+ - Reduced starting crownland by 20 for all nations
  - Cooldowns of all estate interaction buttons have been increased from 5 --> 7 years
  - Modified nobility manpower privliege +50% --> +25%
  - Modified crownland and now at 100% crownland you recieve (all modifiers scaled every 10-15 crownland starting at 40) :
@@ -87,6 +87,10 @@ Mod is still in development and modifiers / numbers are subject to change.
  	 - +5 year absolutism (buffed)
    	 - -0.10 monthly autonomy (buffed)
    	 - +60% reform progress (reduced)
+**Government Types**
+ - Steppe Nomad
+ 	- Modified shock bonus / penalty on flat terrain 25% --> 10%
+  	- Reduced monarch points from razing by 50%
 
 **Trade Nodes**
  - Main changes include:
@@ -123,11 +127,19 @@ Mod is still in development and modifiers / numbers are subject to change.
  - Added / removed QoL straits in Baltic Sea
  - Added QoL straits in Mediterranean stea
  - Gibraltar is now a highlands province (originally mountains)
+ - Released Sicily from Aragon
+ - Released Sardinia Piedmont from Aragon
+ - Released Naples from Aragon
+
+**Middle East**
+ - Shattered Timurids
+ - Released Timurids starting vassals
    
 **Asia**
  - Removed China region
  - Removed Manchuria region
  - Removed Japan region
+ - Shattered VJ, Bahamanis, and Bengal
 
 ## Country Specific
  - Morroco
